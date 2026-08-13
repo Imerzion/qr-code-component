@@ -25,8 +25,7 @@ The challenge was to build out a responsive QR code card component and get it lo
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor submission link here]
-- Live Site URL: [Add your GitHub Pages live deployment link here]
+- Live Site URL: [(https://imerzion.github.io/qr-code-component/)]
 
 ## My process
 

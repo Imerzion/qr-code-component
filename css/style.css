@@ -1,3 +1,7 @@
+/* ==========================================
+   FONT IMPORTS
+   ========================================== */
+
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
 
 /* ==========================================
@@ -16,20 +20,17 @@
   MODERN MINI-RESET 
    ========================================== */
 
-/* Fix layout math so padding doesn't distort element sizes */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
-/* Remove default browser spacing that causes layout gaps */
 * {
   margin: 0;
   padding: 0;
 }
 
-/* Make images responsive and block-level to clear ghost line spacing */
 img {
   max-width: 100%;
   height: auto;
@@ -50,11 +51,10 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  gap: 1.5rem; /* Creates clean breathing room between your card and the footer */
+  gap: 1.5rem;
 }
 
 .qr_component {
-  /* Remove flex centering properties here so they don't fight the body layout */
   display: block;
 }
 

@@ -23,8 +23,6 @@ The challenge was to build out a responsive QR code card component and get it lo
 
 ![](./screenshot.png)
 
-_(Tip: Take a quick screenshot of your finished card, name the image file "screenshot.png", and save it directly in this project folder so it loads right here on GitHub)._
-
 ### Links
 
 - Solution URL: [Add your Frontend Mentor submission link here]
